@@ -1,0 +1,53 @@
+/* Styles */
+
+body {
+	background-image: linear-gradient(salmon, darkorange);
+	color: aliceblue;
+	font-family: sans-serif;
+}
+
+article {
+	max-width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2em;
+	padding-bottom: 4em;
+}
+
+h1 {
+	font-size: 28pt;
+	line-height: 1;
+	color: #0b3458;
+	border-style: solid;
+  	border-width: 4px;
+  	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+}
+
+h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+	color: #0b3458;
+}
+h3 {
+	font-size: 20pt;
+	color: #0b3458;
+
+}
+h4 {
+	color: #0b3458;
+}
+
+p {
+	margin: 0 0 1em 0;
+	font-family: sans-serif;
+	text-indent: 14px;
+
+}
+
+ul {
+	font-style: italic;
+	font-family: serif;
+	
+}
